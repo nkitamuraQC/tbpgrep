@@ -63,8 +63,8 @@ print("Character:", char)
 - numpy
 - spglib
 - seekpath
-- ase
-- pythtb, respack (optional)
+- pythtb
+- respack (optional)
 
 ---
 
