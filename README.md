@@ -9,7 +9,7 @@
 ## Main Features
 
 - **Tight-binding Model Wrapper**  
-  - Wraps Wannier90/pythtb/respack models, manages lattice/orbital/band/k-path information (`TBModel` class).
+  - Wraps Wannier90/pythtb/RESPACK models, manages lattice/orbital/band/k-path information (`TBModel` class).
 - **Automatic Point/Space Group Detection**  
   - Uses spglib to detect international and Schonflies symbols and all symmetry operations (rotation/translation).
 - **Character Calculation**  
