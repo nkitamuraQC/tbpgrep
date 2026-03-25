@@ -1,8 +1,8 @@
-# tbpglib
+# tbpgrep
 
 ## Overview
 
-**tbpglib** is a Python package for analyzing point group and space group characters (irreducible representations) from tight-binding models (Wannier90/pythtb/respack format). It provides utilities for symmetry operation analysis, character calculation, and group symbol conversion, leveraging libraries such as spglib and seekpath.
+**tbpgrep** is a Python package for analyzing point group and space group characters (irreducible representations) from tight-binding models (Wannier90/pythtb/respack format). It provides utilities for symmetry operation analysis, character calculation, and group symbol conversion, leveraging libraries such as spglib and seekpath.
 Some functionalities are under development.
 
 ---
